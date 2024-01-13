@@ -524,3 +524,17 @@ languagedirection = "ltr"
 languageNameLatinScript = "Tiếng Việt"
 description = "Giải pháp điều phối container trong môi trường production"
 
+[languages.ar]
+title = "كوبرنيتيز"
+languageName = "العربية (Arabic)"
+weight = 17
+contentDir = "content/ar"
+languagedirection = "rtl"
+
+[languages.ar.params]
+time_format_blog = "02.01.2006"
+# A list of language codes to look for untranslated content, ordered from left to right.
+language_alternatives = ["en"]
+description = "إدارة الحاويات لبيئات الإنتاج"
+languageNameLatinScript = "Arabic"
+
